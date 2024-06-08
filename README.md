@@ -1,0 +1,1 @@
+# spiOverJtag_efinix_t35f400
